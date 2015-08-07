@@ -1,0 +1,16 @@
+#daNum {
+	font-size: 2em;
+}
+
+body {
+	font-family: "Nunito", sans-serif;
+}
+
+.center {
+	width: 200px;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
